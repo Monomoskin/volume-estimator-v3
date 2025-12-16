@@ -1,0 +1,11 @@
+flask
+torch
+torchvision
+pillow
+numpy
+timm
+pandas
+tqdm
+shapely
+opencv-python
+pandas

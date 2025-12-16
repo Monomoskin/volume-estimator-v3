@@ -1,0 +1,35 @@
+# Archivos de entorno virtual
+venv/
+env/
+.venv/
+ 
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+detectron2/
+# Archivos generados por Detectron2
+*checkpoint.pth
+
+# Logs y bases de datos
+*.log
+*.sqlite3
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db  
+
+
+output_predict/
+output_predict_v1/
+output_train/
+output1/
+
+
+# Carpeta del repositorio de Detectron2 (si existe)
+detectron2/
+
+# Entorno virtual
+newenv/
+final_model/
