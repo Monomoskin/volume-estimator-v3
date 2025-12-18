@@ -8,7 +8,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-detectron2/
+
 # Archivos generados por Detectron2
 *checkpoint.pth
 
@@ -28,7 +28,7 @@ output1/
 
 
 # Carpeta del repositorio de Detectron2 (si existe)
-detectron2/
+
 
 # Entorno virtual
 newenv/
